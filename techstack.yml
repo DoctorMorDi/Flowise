@@ -2,7 +2,7 @@ repo_name: DoctorMorDi/Flowise
 report_id: 850d86ec9b5bcc20ab2ffa27c6ad9572
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-03T11:38:51+00:00'
+timestamp: '2024-02-29T19:51:48+00:00'
 requested_by: chungyau97
 provider: github
 branch: main
@@ -261,7 +261,7 @@ tools:
   last_updated_by: Henry
   last_updated_on: 2023-04-06 21:17:34.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
